@@ -61,6 +61,8 @@ The challenge for this Kaggle competition is to predict how a student performs o
   - LogReg AUC: ~0.764
   - RF AUC: ~0.752
   - LGBM AUC: ~0.774
+<img width="691" height="547" alt="ROC Curves" src="https://github.com/user-attachments/assets/610f4b9f-9651-4c5b-af78-8b03de354644" />
+
 ### Conclusions
 - Behavioral features extracted from session logs are predictive of student correctness
 - Time-based and interaction-based features were more important than static identifiers
